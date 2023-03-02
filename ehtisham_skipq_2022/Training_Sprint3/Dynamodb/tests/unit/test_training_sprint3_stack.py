@@ -1,7 +1,7 @@
 import aws_cdk as core
 import aws_cdk.assertions as assertions
 
-from training_sprint3.training_sprint3_stack import TrainingSprint3Stack
+from Dynamodb.training_sprint3_stack import TrainingSprint3Stack
 
 # example tests. To run these tests, uncomment this file along with the example
 # resource in training_sprint3/training_sprint3_stack.py

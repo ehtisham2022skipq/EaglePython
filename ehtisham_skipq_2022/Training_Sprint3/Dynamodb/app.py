@@ -3,7 +3,7 @@ import os
 
 import aws_cdk as cdk
 
-from training_sprint3.training_sprint3_stack import TrainingSprint3Stack
+from Dynamodb.training_sprint3_stack import TrainingSprint3Stack
 
 
 app = cdk.App()
